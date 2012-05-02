@@ -1,0 +1,15 @@
+{
+    "name": "log4js-node-examples",
+    "version": "0.1.0",
+    "private": true,
+    "description": "Highlights some issues with log4js@0.4.3",
+    "author": "NetDev (http://www.netdev.co.uk)",
+    "contributors": [
+        "Mike Bardzinski <mike.bardzinski@netdev.co.uk>",
+        "Phil Dunks <phil.dunks@netdev.co.uk>"
+    ],
+    "dependencies": {
+        "log4js": "0.4.3"
+    },
+    "engines": { "node": ">=0.6.7" }
+}
